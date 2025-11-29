@@ -1,5 +1,6 @@
 # 오픈소스SW개론 [과제2] README 파일 작성하기
 
+> **이름**: 김의빈 | **학번**: 20252994 
 > **top, ps, jobs, kill** 명령어
 
 ---
@@ -302,7 +303,6 @@ $ man kill
 
 - https://develop-historychosun.tistory.com/85
 - https://yurmu.tistory.com/12
-- [Linux System Administration](https://tldp.org/)
 
 ---
 
