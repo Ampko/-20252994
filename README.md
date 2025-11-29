@@ -119,7 +119,8 @@ ps [옵션]
 
 ### ps 명령어 출력 화면
 
-![ps aux 명령어 실행 화면](./ps.png)
+![ps aux 명령어 실행 화면](./ps1.png)
+![ps aux 명령어 실행 화면](./ps2.png)
 
 > ps aux 명령어로 조회한 전체 프로세스 목록입니다. USER, PID, %CPU, %MEM, COMMAND 등의 정보를 통해 현재 실행 중인 프로세스의 상태를 확인할 수 있습니다.
 
@@ -172,7 +173,7 @@ $ kill %1
 
 ### jobs 명령어 출력 화면
 
-![jobs 명령어 실행 화면](./jobs.webp)
+![jobs 명령어 실행 화면](./jobs.png)
 
 > 현재 셸에서 실행 중인 백그라운드 및 포그라운드 작업들을 표시합니다. Running 상태의 sleep 명령어 2개와 Stopped 상태의 nano 에디터가 표시되어 있습니다.
 
