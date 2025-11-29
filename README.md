@@ -67,7 +67,7 @@ MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5138.2 avail Mem
 
 ### top 실행 예시
 
-![top 명령어 실행 화면](./top.webp)
+![top 명령어 실행 화면](./top.png)
 
 > 실시간으로 업데이트되는 top 화면입니다. 시스템 부하(load average), CPU 사용률, 메모리 사용 현황과 함께 실행 중인 프로세스 목록을 확인할 수 있습니다.
 
